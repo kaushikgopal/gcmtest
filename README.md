@@ -1,0 +1,1 @@
+A simple Android Application for testing GCM notifications
