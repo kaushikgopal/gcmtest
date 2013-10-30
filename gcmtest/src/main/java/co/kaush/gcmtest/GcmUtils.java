@@ -19,7 +19,8 @@ public class GcmUtils {
   private static final String TAG = "GCMUtils";
 
 
-  public static final String GCM_SENDER_ID = "122551869219";
+  public static final String GCM_SENDER_ID = "Enter your GCM Sender ID here";
+
 
   // push these to an enum in GlobalUtils
   public static final String PROPERTY_REG_ID = "registration_id";
